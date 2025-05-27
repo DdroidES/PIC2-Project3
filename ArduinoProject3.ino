@@ -81,7 +81,7 @@ void loop() {
     Serial.println(h);
     Serial.println("Temperatura: ");
     Serial.println(t);
-
+    Serial.println("Datos enviados al broker");
   }
   else{
     Serial.println("Error leyendo el sensor DHT11");
