@@ -31,7 +31,7 @@ temp_value = None
 humidity_value = None
 
 def on_connect(client, userdata, flags, rc):
-    print("Connected with result code " + str(rc))
+    print("Conectado")
     client.subscribe("pic2/temperature")
     client.subscribe("pic2/humidity")
 
@@ -48,6 +48,7 @@ def on_message(client, userdata, msg):
     if temp_value is not None and humidity_value is not None:
         session.add(SensorData(temperature=temp_value,humidity=humidity_value))
         session.commit()
+        print("Datos enviados a la basde de datos")
         temp_value = None
         humidity_value = None
 
