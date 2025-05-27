@@ -1,0 +1,36 @@
+1748369775: mosquitto version 2.0.21 starting
+1748369775: Config loaded from /mosquitto/config/mosquitto.conf.
+1748369775: Opening ipv4 listen socket on port 1883.
+1748369775: Opening ipv6 listen socket on port 1883.
+1748369775: mosquitto version 2.0.21 running
+1748369795: mosquitto version 2.0.21 terminating
+1748369795: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748370946: mosquitto version 2.0.21 starting
+1748370946: Config loaded from /mosquitto/config/mosquitto.conf.
+1748370946: Opening ipv4 listen socket on port 1883.
+1748370946: Opening ipv6 listen socket on port 1883.
+1748370946: mosquitto version 2.0.21 running
+1748370977: mosquitto version 2.0.21 terminating
+1748370977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748370979: mosquitto version 2.0.21 starting
+1748370979: Config loaded from /mosquitto/config/mosquitto.conf.
+1748370979: Opening ipv4 listen socket on port 1883.
+1748370979: Opening ipv6 listen socket on port 1883.
+1748370979: mosquitto version 2.0.21 running
+1748370984: mosquitto version 2.0.21 terminating
+1748370984: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1748370994: mosquitto version 2.0.21 starting
+1748370994: Config loaded from /mosquitto/config/mosquitto.conf.
+1748370994: Opening ipv4 listen socket on port 1883.
+1748370994: Opening ipv6 listen socket on port 1883.
+1748370994: mosquitto version 2.0.21 running
+1748372072: New connection from 172.19.0.1:39078 on port 1883.
+1748372072: Client <unknown> disconnected due to protocol error.
+1748372073: New connection from 172.19.0.1:39082 on port 1883.
+1748372073: Client <unknown> disconnected due to protocol error.
+1748372077: New connection from 172.19.0.1:39084 on port 1883.
+1748372077: Client <unknown> disconnected due to protocol error.
+1748372078: New connection from 172.19.0.1:39088 on port 1883.
+1748372078: Client <unknown> disconnected due to protocol error.
+1748372149: mosquitto version 2.0.21 terminating
+1748372149: Saving in-memory database to /mosquitto/data//mosquitto.db.
